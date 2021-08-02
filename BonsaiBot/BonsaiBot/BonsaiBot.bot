@@ -1,0 +1,18 @@
+{
+    "name": "BonsaiBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "1591ebc0-f32b-11eb-882a-2bd3eb713bc4",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\pvitez\\source\\repos\\EchoBot1\\EchoBot1\\BonsaiBot.bot",
+    "overrides": null
+}
